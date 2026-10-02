@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# local data created while running
+*.sqlite
+evaluation/results/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store

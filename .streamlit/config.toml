@@ -1,0 +1,6 @@
+[server]
+# Keep in step with MAX_UPLOAD_MB in .env (default 10).
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
