@@ -1,0 +1,151 @@
+order_id,order_date,region,product,category,quantity,unit_price,customer_email,status
+1021,2024-01-01,South,Chair,Furniture,2,149.0,customer20@example.com,Cancelled
+1137,2024-01-01,South,Backpack,Accessories,6,59.0,customer40@example.com,Completed
+1086,2024-01-02,West,Notebook,Stationery,7,4.5,customer35@example.com,Completed
+1054,2024-01-03,South,Phone,Electronics,1,649.0,customer24@example.com,Completed
+1117,2024-01-04,West,Chair,Furniture,6,149.0,customer12@example.com,Completed
+1003,2024-01-08,North,Phone,Electronics,4,649.0,customer35@example.com,Completed
+1088,2024-01-08,West,Pen Set,Stationery,3,12.0,customer30@example.com,Completed
+1056,2024-01-11,South,Notebook,Stationery,2,4.5,customer23@example.com,Completed
+1099,2024-01-11,East,Notebook,Stationery,2,4.5,customer33@example.com,Completed
+1132,2024-01-11,West,Headphones,Electronics,5,119.0,customer12@example.com,Completed
+1009,2024-01-12,North,Desk,Furniture,4,249.0,customer07@example.com,Completed
+1074,2024-01-12,North,Desk,Furniture,8,249.0,customer27@example.com,Cancelled
+1041,2024-01-13,South,Backpack,Accessories,1,59.0,customer33@example.com,Completed
+1116,2024-01-14,South,Chair,Furniture,8,149.0,customer07@example.com,Completed
+1118,2024-01-14,West,Chair,Furniture,2,149.0,customer05@example.com,Cancelled
+1013,2024-01-15,East,Desk,Furniture,7,249.0,customer18@example.com,Returned
+1024,2024-01-15,North,Desk,Furniture,2,249.0,customer32@example.com,Returned
+1128,2024-01-16,East,Headphones,Electronics,8,119.0,customer08@example.com,Completed
+1014,2024-01-17,East,Desk,Furniture,4,249.0,customer32@example.com,Cancelled
+1025,2024-01-18,West,Headphones,Electronics,3,119.0,customer17@example.com,Completed
+1067,2024-01-18,North,Notebook,Stationery,5,4.5,customer33@example.com,Completed
+1029,2024-01-19,North,Laptop,Electronics,6,999.0,customer05@example.com,Completed
+1046,2024-01-19,North,Laptop,Electronics,2,999.0,customer35@example.com,Completed
+1126,2024-01-19,South,Desk,Furniture,7,249.0,customer08@example.com,Cancelled
+1098,2024-01-20,East,Desk,Furniture,2,249.0,customer37@example.com,Completed
+1042,2024-01-21,North,Headphones,Electronics,4,119.0,customer26@example.com,Completed
+1130,2024-01-21,East,Laptop,Electronics,5,999.0,customer02@example.com,Returned
+1136,2024-01-23,North,Notebook,Stationery,7,4.5,customer33@example.com,Completed
+1109,2024-01-24,South,Chair,Furniture,5,149.0,customer38@example.com,Completed
+1131,2024-01-24,North,Desk,Furniture,5,249.0,customer37@example.com,Cancelled
+1032,2024-01-25,East,Phone,Electronics,7,649.0,customer27@example.com,Completed
+1006,2024-01-27,East,Phone,Electronics,6,649.0,customer39@example.com,Completed
+1050,2024-01-28,South,Headphones,Electronics,6,119.0,customer14@example.com,Completed
+1097,2024-01-28,West,Laptop,Electronics,7,999.0,customer13@example.com,Cancelled
+1043,2024-01-31,North,Desk,Furniture,2,249.0,customer27@example.com,Completed
+1089,2024-02-02,North,Laptop,Electronics,2,999.0,customer28@example.com,Cancelled
+1150,2024-02-02,West,Notebook,Stationery,2,4.5,customer34@example.com,Returned
+1031,2024-02-03,West,Backpack,Accessories,7,59.0,customer13@example.com,Completed
+1053,2024-02-03,West,Chair,Furniture,7,149.0,customer36@example.com,Completed
+1139,2024-02-03,West,Chair,Furniture,2,149.0,customer02@example.com,Completed
+1090,2024-02-04,East,Backpack,Accessories,7,59.0,customer21@example.com,Completed
+1002,2024-02-05,North,Phone,Electronics,7,649.0,customer03@example.com,Completed
+1018,2024-02-09,West,Headphones,Electronics,2,119.0,customer25@example.com,Completed
+1037,2024-02-12,South,Pen Set,Stationery,7,12.0,customer04@example.com,Completed
+1038,2024-02-12,West,Pen Set,Stationery,5,12.0,customer30@example.com,Completed
+1124,2024-02-14,West,Phone,Electronics,8,649.0,customer39@example.com,Completed
+1058,2024-02-15,East,Pen Set,Stationery,7,12.0,customer16@example.com,Completed
+1102,2024-02-15,West,Chair,Furniture,8,149.0,customer28@example.com,Completed
+1107,2024-02-18,West,Phone,Electronics,8,649.0,customer36@example.com,Completed
+1094,2024-02-21,South,Laptop,Electronics,3,999.0,customer31@example.com,Completed
+1047,2024-02-24,East,Chair,Furniture,2,149.0,customer16@example.com,Completed
+1091,2024-02-24,West,Backpack,Accessories,5,59.0,customer27@example.com,Completed
+1017,2024-02-26,North,Headphones,Electronics,1,119.0,customer08@example.com,Completed
+1077,2024-02-26,West,Headphones,Electronics,1,119.0,customer36@example.com,Returned
+1028,2024-02-27,South,Phone,Electronics,4,649.0,customer01@example.com,Completed
+1061,2024-02-28,South,Desk,Furniture,7,249.0,customer22@example.com,Completed
+1083,2024-02-29,South,Pen Set,Stationery,2,12.0,customer27@example.com,Completed
+1112,2024-02-29,East,Phone,Electronics,2,649.0,customer35@example.com,Completed
+1073,2024-03-01,South,Chair,Furniture,3,149.0,customer02@example.com,Completed
+1108,2024-03-02,West,Backpack,Accessories,8,59.0,customer02@example.com,Completed
+1012,2024-03-03,East,Headphones,Electronics,4,119.0,customer21@example.com,Completed
+1076,2024-03-03,North,Headphones,Electronics,2,119.0,customer28@example.com,Completed
+1078,2024-03-04,West,Phone,Electronics,6,649.0,customer29@example.com,Completed
+1092,2024-03-05,North,Phone,Electronics,6,649.0,customer15@example.com,Completed
+1007,2024-03-08,North,Laptop,Electronics,7,999.0,customer06@example.com,Completed
+1045,2024-03-08,East,Pen Set,Stationery,8,12.0,customer21@example.com,Completed
+1020,2024-03-09,West,Notebook,Stationery,3,4.5,customer30@example.com,Completed
+1059,2024-03-09,North,Headphones,Electronics,7,119.0,customer03@example.com,Completed
+1081,2024-03-11,East,Backpack,Accessories,4,59.0,customer18@example.com,Completed
+1062,2024-03-12,East,Phone,Electronics,6,649.0,customer33@example.com,Cancelled
+1039,2024-03-14,West,Pen Set,Stationery,3,12.0,customer13@example.com,Completed
+1040,2024-03-16,North,Desk,Furniture,6,249.0,customer04@example.com,Cancelled
+1049,2024-03-17,South,Phone,Electronics,5,649.0,customer08@example.com,Cancelled
+1122,2024-03-17,North,Pen Set,Stationery,2,12.0,customer14@example.com,Completed
+1068,2024-03-20,East,Pen Set,Stationery,3,12.0,customer13@example.com,Completed
+1023,2024-03-23,East,Backpack,Accessories,5,59.0,customer16@example.com,Completed
+1111,2024-03-25,East,Notebook,Stationery,5,4.5,customer17@example.com,Completed
+1082,2024-03-26,North,Notebook,Stationery,3,4.5,customer10@example.com,Returned
+1147,2024-03-26,East,Pen Set,Stationery,4,12.0,customer16@example.com,Completed
+1034,2024-03-27,South,Phone,Electronics,8,649.0,customer09@example.com,Completed
+1106,2024-03-28,East,Chair,Furniture,1,149.0,customer34@example.com,Returned
+1134,2024-03-30,North,Pen Set,Stationery,3,12.0,customer22@example.com,Completed
+1011,2024-03-31,North,Desk,Furniture,3,249.0,customer35@example.com,Completed
+1115,2024-04-02,South,Headphones,Electronics,5,119.0,customer03@example.com,Completed
+1048,2024-04-04,East,Chair,Furniture,1,149.0,customer36@example.com,Completed
+1096,2024-04-04,North,Headphones,Electronics,3,119.0,customer20@example.com,Completed
+1110,2024-04-04,East,Backpack,Accessories,7,59.0,customer36@example.com,Completed
+1010,2024-04-07,East,Chair,Furniture,3,149.0,customer24@example.com,Completed
+1019,2024-04-07,North,Backpack,Accessories,2,59.0,customer35@example.com,Completed
+1015,2024-04-11,South,Backpack,Accessories,4,59.0,customer36@example.com,Completed
+1063,2024-04-12,North,Notebook,Stationery,5,4.5,customer12@example.com,Cancelled
+1119,2024-04-12,North,Backpack,Accessories,3,59.0,customer10@example.com,Completed
+1084,2024-04-14,West,Notebook,Stationery,1,4.5,customer14@example.com,Completed
+1141,2024-04-14,North,Phone,Electronics,8,649.0,customer08@example.com,Completed
+1135,2024-04-15,West,Backpack,Accessories,1,59.0,customer30@example.com,Completed
+1121,2024-04-16,West,Desk,Furniture,8,249.0,customer29@example.com,Completed
+1004,2024-04-17,East,Desk,Furniture,1,249.0,customer11@example.com,Completed
+1069,2024-04-17,South,Pen Set,Stationery,5,12.0,customer26@example.com,Completed
+1085,2024-04-17,North,Pen Set,Stationery,7,12.0,customer31@example.com,Cancelled
+1035,2024-04-18,South,Headphones,Electronics,2,119.0,customer29@example.com,Completed
+1101,2024-04-20,West,Notebook,Stationery,3,4.5,customer28@example.com,Completed
+1065,2024-04-21,South,Phone,Electronics,5,649.0,customer03@example.com,Completed
+1066,2024-04-21,South,Laptop,Electronics,6,999.0,customer28@example.com,Completed
+1080,2024-04-25,East,Chair,Furniture,8,149.0,customer16@example.com,Completed
+1104,2024-04-25,West,Desk,Furniture,6,249.0,customer02@example.com,Completed
+1033,2024-04-29,North,Laptop,Electronics,1,999.0,customer26@example.com,Completed
+1129,2024-04-29,East,Chair,Furniture,8,149.0,customer29@example.com,Completed
+1060,2024-04-30,West,Desk,Furniture,6,249.0,customer20@example.com,Completed
+1125,2024-04-30,East,Chair,Furniture,5,149.0,customer30@example.com,Completed
+1072,2024-05-01,East,Headphones,Electronics,6,119.0,customer06@example.com,Completed
+1149,2024-05-01,South,Pen Set,Stationery,8,12.0,customer03@example.com,Completed
+1143,2024-05-03,South,Backpack,Accessories,7,59.0,customer13@example.com,Completed
+1105,2024-05-06,South,Notebook,Stationery,6,4.5,customer17@example.com,Completed
+1138,2024-05-07,South,Backpack,Accessories,5,59.0,customer36@example.com,Completed
+1145,2024-05-09,East,Chair,Furniture,5,149.0,customer38@example.com,Returned
+1030,2024-05-11,West,Desk,Furniture,4,249.0,customer35@example.com,Completed
+1114,2024-05-14,South,Chair,Furniture,5,149.0,customer15@example.com,Cancelled
+1026,2024-05-15,South,Pen Set,Stationery,5,12.0,customer26@example.com,Cancelled
+1016,2024-05-17,West,Chair,Furniture,7,149.0,customer24@example.com,Completed
+1087,2024-05-19,East,Desk,Furniture,7,249.0,customer32@example.com,Completed
+1127,2024-05-19,East,Desk,Furniture,3,249.0,customer05@example.com,Completed
+1036,2024-05-20,North,Phone,Electronics,2,649.0,customer16@example.com,Completed
+1070,2024-05-20,South,Laptop,Electronics,7,999.0,customer38@example.com,Completed
+1008,2024-05-21,East,Chair,Furniture,4,149.0,customer05@example.com,Returned
+1057,2024-05-23,South,Pen Set,Stationery,4,12.0,customer11@example.com,Cancelled
+1120,2024-05-24,South,Chair,Furniture,2,149.0,customer36@example.com,Completed
+1148,2024-05-26,West,Pen Set,Stationery,1,12.0,customer21@example.com,Completed
+1064,2024-05-28,West,Chair,Furniture,6,149.0,customer21@example.com,Completed
+1146,2024-05-28,West,Backpack,Accessories,8,59.0,customer23@example.com,Returned
+1055,2024-05-29,North,Headphones,Electronics,5,119.0,customer24@example.com,Completed
+1133,2024-05-29,West,Pen Set,Stationery,2,12.0,customer31@example.com,Completed
+1103,2024-05-31,South,Chair,Furniture,2,149.0,customer18@example.com,Completed
+1144,2024-06-02,East,Headphones,Electronics,7,119.0,customer22@example.com,Returned
+1071,2024-06-04,West,Notebook,Stationery,4,4.5,customer33@example.com,Completed
+1079,2024-06-05,West,Pen Set,Stationery,3,12.0,customer31@example.com,Returned
+1123,2024-06-09,North,Desk,Furniture,3,249.0,customer16@example.com,Completed
+1075,2024-06-10,West,Desk,Furniture,8,249.0,customer26@example.com,Completed
+1140,2024-06-10,East,Desk,Furniture,1,249.0,customer36@example.com,Completed
+1052,2024-06-11,North,Pen Set,Stationery,1,12.0,customer22@example.com,Returned
+1001,2024-06-12,East,Phone,Electronics,4,649.0,customer15@example.com,Completed
+1022,2024-06-12,South,Desk,Furniture,1,249.0,customer39@example.com,Completed
+1100,2024-06-14,West,Notebook,Stationery,8,4.5,customer07@example.com,Completed
+1142,2024-06-14,East,Headphones,Electronics,5,119.0,customer27@example.com,Completed
+1093,2024-06-15,North,Phone,Electronics,1,649.0,customer16@example.com,Completed
+1044,2024-06-17,South,Notebook,Stationery,6,4.5,customer16@example.com,Cancelled
+1027,2024-06-20,West,Notebook,Stationery,2,4.5,customer16@example.com,Completed
+1095,2024-06-20,South,Phone,Electronics,8,649.0,customer17@example.com,Completed
+1051,2024-06-24,East,Chair,Furniture,1,149.0,customer06@example.com,Completed
+1113,2024-06-25,West,Headphones,Electronics,5,119.0,customer38@example.com,Completed
+1005,2024-06-27,South,Pen Set,Stationery,4,12.0,customer22@example.com,Completed
